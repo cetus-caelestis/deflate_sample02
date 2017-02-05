@@ -8,7 +8,6 @@
 // include
 //-------------------------------------------------------------
 #include <vector>
-#include <assert.h>
 
 namespace MyUtility
 {
